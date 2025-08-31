@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![23516's GitHub stats](https://github-readme-stats.vercel.app/api?username=23516)
 
 ![23516's GitHub stats](https://github-readme-stats.vercel.app/api?username=23516&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23516)
+
+![23516's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=23516)
 
